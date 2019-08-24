@@ -1,0 +1,4 @@
+Pyber - The Power of Plots: Observable Trends
+-As the number of rides increases, the total fare decreases across all city types. However, this does does not appear to the be case within the same city type.
+-The cost of fare is measured by distance and time, so it appears accurate that in rural areas there are fewer, longer rides and in urban areas there are more, shorter rides.
+-We can see that with the increase in population, there are both more drivers and more rides.
